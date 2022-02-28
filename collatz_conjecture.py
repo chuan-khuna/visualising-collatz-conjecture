@@ -4,7 +4,7 @@ import numpy as np
 def collatz_recursive(n, sequence=[]):
 
     # TODO: if not pass the sequence argument
-    # when calling collatz recursive version, sequence dods not start from []
+    # when calling collatz recursive version, sequence does not start from []
 
     sequence.append(int(n))
 
